@@ -1,0 +1,118 @@
+
+.skill{
+  width: 100%;
+  height: 835px;
+  padding: 0 20px;
+}
+.Skill-header{
+  width: 100%;
+  font-size: 30px;
+  font-weight: 700;
+  margin-top: 20px;
+}
+.normal-para{
+  color:  rgba(0, 0, 0, 0.4);
+  font-size: 20px;
+  margin-top: 10px;
+  margin-bottom: 40px;
+}
+.skill-btn{
+  font-size: bold;
+  display: flex;
+gap: 25px;
+color:  rgba(0, 0, 0, 0.7);
+
+}
+
+.btn-1:hover{
+  cursor:pointer;
+  color: black;
+  font-weight: bolder;
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 8px
+
+
+}
+.btn-2:hover{
+  cursor:pointer;
+  color: black;
+  font-weight: bolder;
+
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 8px
+
+
+}
+.btn-3:hover{
+  cursor:pointer;
+  color: black;
+  font-weight: bolder;
+
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 8px
+
+
+}
+.btn-4:hover{
+  cursor:pointer;
+  color: black;
+  font-weight: bolder;
+
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 8px
+
+
+}
+.btn-5:hover{
+  cursor:pointer;
+  color: black;
+  font-weight: bolder;
+
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 8px
+
+
+}
+.btn-6:hover{
+  cursor:pointer;
+  color: black;
+  font-weight: bolder;
+
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 8px
+  ;
+}
+
+.photo1{
+  background-color:white;
+  width: 440px;
+  height: 262px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 20px;
+  padding-left: 20px;
+  position: absolute;
+  top: 20%;
+  left: 10%;
+  font-weight: bold;
+line-height: 1.5;
+}
+.info{
+  padding: 10px 15px;
+  margin-top: 40px;
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}
+
+.h1{
+  font-size: 30px;
+  gap: 2px;
+  padding-bottom: 10px;
+}
